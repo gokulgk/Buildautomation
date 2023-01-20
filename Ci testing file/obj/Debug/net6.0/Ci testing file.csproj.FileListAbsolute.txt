@@ -1,0 +1,15 @@
+C:\Users\h532272\OneDrive - Honeywell\Test Files for CI\Ci testing file\Ci testing file\bin\Debug\net6.0\Ci testing file.exe
+C:\Users\h532272\OneDrive - Honeywell\Test Files for CI\Ci testing file\Ci testing file\bin\Debug\net6.0\Ci testing file.deps.json
+C:\Users\h532272\OneDrive - Honeywell\Test Files for CI\Ci testing file\Ci testing file\bin\Debug\net6.0\Ci testing file.runtimeconfig.json
+C:\Users\h532272\OneDrive - Honeywell\Test Files for CI\Ci testing file\Ci testing file\bin\Debug\net6.0\Ci testing file.dll
+C:\Users\h532272\OneDrive - Honeywell\Test Files for CI\Ci testing file\Ci testing file\bin\Debug\net6.0\Ci testing file.pdb
+C:\Users\h532272\OneDrive - Honeywell\Test Files for CI\Ci testing file\Ci testing file\obj\Debug\net6.0\Ci testing file.csproj.AssemblyReference.cache
+C:\Users\h532272\OneDrive - Honeywell\Test Files for CI\Ci testing file\Ci testing file\obj\Debug\net6.0\Ci testing file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h532272\OneDrive - Honeywell\Test Files for CI\Ci testing file\Ci testing file\obj\Debug\net6.0\Ci testing file.AssemblyInfoInputs.cache
+C:\Users\h532272\OneDrive - Honeywell\Test Files for CI\Ci testing file\Ci testing file\obj\Debug\net6.0\Ci testing file.AssemblyInfo.cs
+C:\Users\h532272\OneDrive - Honeywell\Test Files for CI\Ci testing file\Ci testing file\obj\Debug\net6.0\Ci testing file.csproj.CoreCompileInputs.cache
+C:\Users\h532272\OneDrive - Honeywell\Test Files for CI\Ci testing file\Ci testing file\obj\Debug\net6.0\Ci testing file.dll
+C:\Users\h532272\OneDrive - Honeywell\Test Files for CI\Ci testing file\Ci testing file\obj\Debug\net6.0\refint\Ci testing file.dll
+C:\Users\h532272\OneDrive - Honeywell\Test Files for CI\Ci testing file\Ci testing file\obj\Debug\net6.0\Ci testing file.pdb
+C:\Users\h532272\OneDrive - Honeywell\Test Files for CI\Ci testing file\Ci testing file\obj\Debug\net6.0\Ci testing file.genruntimeconfig.cache
+C:\Users\h532272\OneDrive - Honeywell\Test Files for CI\Ci testing file\Ci testing file\obj\Debug\net6.0\ref\Ci testing file.dll
